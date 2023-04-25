@@ -35,13 +35,13 @@ export const PRODUCTS = [
   {
     id: 5,
     productName: "LED Light Strips",
-    price: 19.99,
+    price: 20.99,
     productImage: product5,
   },
   {
     id: 6,
     productName: "SPECTRUM LS TEE",
-    price: 68.0,
+    price: 70.99,
     productImage: product6,
   },
   {
@@ -53,7 +53,7 @@ export const PRODUCTS = [
   {
     id: 8,
     productName: "DON'T TRIP UNSTRUCTURED HAT",
-    price: 40.0,
+    price: 40.99,
     productImage: product8,
   },
 
